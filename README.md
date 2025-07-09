@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Masterofinie
+# 👋 Hello, I'm Masterofinite
 
 I'm a **Web and Android Developer** passionate about building efficient, secure, and user-friendly software. Currently focused on full-stack development with **Laravel**, **Vue.js**, and **Flutter**, I create scalable solutions for real-world problems — from grocery store apps to modern admin dashboards.
 
@@ -38,7 +38,7 @@ I'm a **Web and Android Developer** passionate about building efficient, secure,
 
 ## 📈 GitHub Stats
 
-![Masterofinie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masterofinie&show_icons=true&theme=radical&hide_border=true)
+![Masterofinite's GitHub Stats](https://github-readme-stats.vercel.app/api?username=masterofinite&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
@@ -53,7 +53,7 @@ I'm a **Web and Android Developer** passionate about building efficient, secure,
 
 ## 📬 Connect with Me
 
-- 🌐 [GitHub](https://github.com/masterofiniez)
+- 🌐 [GitHub](https://github.com/masterofinite)
 - 📫 Telegram: `@yourTelegramHandle` *(replace this if you want)*
 - 🇺🇿 Based in Uzbekistan | Aspiring Software Engineer in Germany 🇩🇪
 
