@@ -44,8 +44,7 @@ I'm a **Web and Android Developer** passionate about building efficient, secure,
 
 ## 🚀 Current Learning Path
 
-- 📘 **German (B2)** – Preparing for Ausbildung in Software Development (starting 2026)
-- 🧩 **PHP OOP & Laravel Advanced Concepts**
+- 🧩 **Laravel Advanced Concepts**
 - ⚙️ **Vue 3 Composition API & State Management**
 - 🧪 **Node.js & C# (Basic Level)** – expanding backend and cross-platform skills
 
@@ -54,9 +53,8 @@ I'm a **Web and Android Developer** passionate about building efficient, secure,
 ## 📬 Connect with Me
 
 - 🌐 [GitHub](https://github.com/masterofinite)
-- 📫 Telegram: `@yourTelegramHandle` *(replace this if you want)*
-- 🇺🇿 Based in Uzbekistan | Aspiring Software Engineer in Germany 🇩🇪
-
+- 📫 Telegram: `@masterofinite` 
+- 🇺🇿 Based in Uzbekistan
 ---
 
 *“Build with purpose. Learn endlessly.”*
