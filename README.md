@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Masterofinite
 
-I'm a **Web and Android Developer** passionate about building efficient, secure, and user-friendly software. Currently focused on full-stack development with **Laravel**, **Vue.js**, and **Flutter**, I create scalable solutions for real-world problems — from grocery store apps to modern admin dashboards.
+I'm a **Web and Android Developer** passionate about building efficient, secure, and user-friendly software. Currently focused on full-stack development with **Laravel**, **Vue.js**, and **Flutter**, I create scalable solutions for real-world problems — from grocery store apps to modern admin dashboards. i have 2+ years of exp and i made over 11+ projects!
 
 ---
 
