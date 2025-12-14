@@ -4,18 +4,6 @@ I'm a **Web and Android Developer** with a passion for building efficient, secur
 
 ---
 
-## 💼 What I'm Working On
-
-- 🛒 **Grocery Store Web App**  
-  RESTful Laravel API + Vue 3 + Tailwind CSS + Flutter (Mobile Coming Soon)  
-  🔑 Roles: Super Admin, Store, User  
-  💡 Features: Cash Payments, Telegram Verification, Subscriptions, Analytics, Multi-store UI
-
-- 🧰 **Reusable Laravel-Vue Starter Kit**  
-  A clean and modular project boilerplate featuring auth, RBAC, API structure, and a responsive dashboard — designed for fast SaaS/product launches
-
----
-
 ## 🧠 Tech Stack
 
 **Languages:**  
