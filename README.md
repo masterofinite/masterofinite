@@ -47,7 +47,7 @@ I'm a **Web and Android Developer** with a passion for building efficient, secur
 ## 📬 Connect With Me
 
 - 🌐 [GitHub](https://github.com/masterofinite)
-- 💬 Telegram: [@masterofinite](https://t.me/masterofinite)
+- 💬 Telegram: [@DevBroCoder(https://t.me/DevBroCoderofficial)
 - 🌍 Based in Uzbekistan
 
 ---
