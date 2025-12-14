@@ -9,6 +9,7 @@ I'm a **Web and Android Developer** with a passion for building efficient, secur
 **Languages:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **Frameworks & Libraries:**  
 ![Laravel](https://img.shields.io/badge/Laravel-F72C1F?style=flat&logo=laravel&logoColor=white)
