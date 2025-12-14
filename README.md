@@ -40,7 +40,7 @@ I'm a **Web and Android Developer** with a passion for building efficient, secur
 
 - ⚙️ **Mastering Laravel Advanced Concepts**
 - 🌐 **Vue 3 (Composition API + State Management)**
-- 🧪 **Exploring Node.js and Basic C#** for cross-platform and backend expansion
+- 🧪 **Exploring Go and Basic Flutter** for cross-platform and backend expansion
 
 ---
 
