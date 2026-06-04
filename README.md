@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Masterofinite
 
-I'm a **Web and (future) Android Developer** with a passion for building efficient, secure, and user-centric software. With over **2 years of experience** and **11+ completed projects**, I specialize in full-stack development using **PHP**, **Wordpress**, and **Bootstrap**, creating scalable solutions for real-world needs — from grocery store platforms to modern admin dashboards.
+I'm a **Web** with a passion for building efficient, secure, and user-centric software. With over **2 years of experience** and **11+ completed projects**, I specialize in full-stack development using **PHP**, **Wordpress**, and **Bootstrap**, creating scalable solutions for real-world needs — from grocery store platforms to modern admin dashboards.
 
 ---
 
@@ -9,7 +9,6 @@ I'm a **Web and (future) Android Developer** with a passion for building efficie
 **Languages:**  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 **Frameworks & Libraries:**  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
@@ -37,15 +36,13 @@ I'm a **Web and (future) Android Developer** with a passion for building efficie
 
 ## 🚀 Learning & Growth
 
-- ⚙️ **Learing Laravel and OOP PHP**
+- ⚙️ **Learing Laravel**
 - 🌐 **Learing Java for Enterprise solutions*
 - 🧪 **Exploring Go and Basic Flutter** for cross-platform and backend expansion
 
 ---
 
 ## 📬 Connect With Me
-
-- 🌐 [GitHub](https://github.com/masterofinite)
 - 💬 Telegram: [@DevBroCoder(https://t.me/DevBroCoderofficial)
 - 🌍 Based in Uzbekistan
 
